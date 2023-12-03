@@ -1,0 +1,11 @@
+MCAL/TIMER0/TIMER0.o MCAL/TIMER0/TIMER0.o: ../MCAL/TIMER0/TIMER0.c \
+  ../MCAL/TIMER0/../../STD_TYPES.h ../MCAL/TIMER0/../../Comman_Macros.h \
+  ../MCAL/TIMER0/TIMER0_Config.h ../MCAL/TIMER0/TIMER0_Private.h
+
+../MCAL/TIMER0/../../STD_TYPES.h:
+
+../MCAL/TIMER0/../../Comman_Macros.h:
+
+../MCAL/TIMER0/TIMER0_Config.h:
+
+../MCAL/TIMER0/TIMER0_Private.h:
